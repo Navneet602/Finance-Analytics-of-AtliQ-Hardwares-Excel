@@ -1,6 +1,5 @@
-# Sales-and-Finance
-# Sales and Finance Analytics of Atliq Hardware
-## Sales View:
+# Sales Analytics of Atliq Hardware
+
 ### Project Goal: 
 Evaluation of customer Performance: A comprehensive [report](https://github.com/Navneet602/Sales-and-Finance-/blob/main/CUSTOMER%20PERFORMNCE%20REPORT(INDIA).pdf) was created for the in-depth analysis of client performance.
 The goal of sales analytics is to give companies the instruments they need to track, evaluate, and improve their sales efforts and outcomes.
