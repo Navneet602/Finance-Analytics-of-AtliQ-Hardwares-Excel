@@ -2,7 +2,7 @@
 # Sales and Finance Analytics of Atliq Hardware
 ## Sales View:
 ### Project Goal: 
-1. Customer Performance Evaluation: Developed an extensive [report](https://github.com/Amit-20-gr/Sales-and-Finance-of-Atliq-Hardware/blob/main/Customer%20Performance%20Report.pdf) for the in-depth assessment of customer performance.
+1. Customer Performance Evaluation: Developed an extensive [report](CUSTOMER PERFORMNCE REPORT(INDIA).pdf) for the in-depth assessment of customer performance.
 
 Sales Analytics Objective: Equipping businesses with tools to monitor, assess, and optimize their sales activities and results.
 
