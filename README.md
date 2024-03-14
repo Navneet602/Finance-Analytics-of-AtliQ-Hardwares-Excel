@@ -1,4 +1,4 @@
-# Sales Analytics of Atliq Hardware
+# Finance Analytics of Atliq Hardware
 
 ### Project Goal: 
 Evaluation of customer Performance: A comprehensive [report](https://github.com/Navneet602/Sales-and-Finance-/blob/main/CUSTOMER%20PERFORMNCE%20REPORT(INDIA).pdf) was created for the in-depth analysis of client performance.
